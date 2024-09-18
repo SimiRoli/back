@@ -1,0 +1,36 @@
+{
+    "Cars":[
+        {
+            "name":"Audi",
+            "color":"black",
+            "price": 3000
+        },
+        {
+            "name":"BMW",
+            "color":"blue",
+            "price": 15000
+        },
+        {
+            "name":"Ferrari",
+            "color":"red",
+            "price": 150000
+        },
+        {
+            "name":"Mercedes",
+            "color":"gray",
+            "price": 3000
+        },
+        {
+            "name":"McLaren",
+            "color":"orange",
+            "price": 230000
+        }
+
+
+
+
+
+
+
+    ]
+}
